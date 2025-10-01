@@ -7,4 +7,3 @@ class Solution:
           return[prevmap[diff],i]
         prevmap[n]=i
       return  
-        
